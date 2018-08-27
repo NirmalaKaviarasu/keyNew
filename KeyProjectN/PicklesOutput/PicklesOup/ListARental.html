@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"[]>
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>List A Rental</title>
+    <link rel="stylesheet" href="css/master.css" type="text/css" />
+    <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/scripts.js" type="text/javascript"></script>
+    <script type="text/javascript">
+$(document).ready(function() {
+  initializeToc();
+});
+</script>
+    <!-- We are using Font Awesome - http://fortawesome.github.com/Font-Awesome - licensed under CC BY 3.0 -->
+  </head>
+  <body>
+    <div id="container">
+      <div id="top" />
+      <div id="toc">
+        <p class="tocCollapser" title="Collapse Table of Content">«</p>
+        <ul class="features">
+          <li class="file" id="root">
+            <a href="index.html">Home</a>
+          </li>
+          <li class="file">
+            <a href="CreateNewProperty.html">Create New Property as "Affortable Housing"</a>
+          </li>
+          <li class="file">
+            <a href="DeleteCratedProperty.html">Delete Newly Created Property</a>
+          </li>
+          <li class="file">
+            <span class="current">List A Rental</span>
+          </li>
+        </ul>
+      </div>
+      <div id="feature">
+        <h1>List A Rental</h1>
+        <div class="description">
+          <p>In order to List a Rental
+As a Property Owner
+I want to have Property which is already displyed under Myproperty </p>
+        </div>
+        <ul id="scenarios">
+          <li class="scenario">
+            <div class="scenario-heading" id="list-a-rental">
+              <p class="tags">Tags: <span>@ListARental</span></p>
+              <h2>List A Rental</h2>
+            </div>
+            <div class="steps">
+              <ul>
+                <li class="step">
+                  <span class="keyword">Given </span>Login using Owners Account Details Page</li>
+                <li class="step">
+                  <span class="keyword">And </span>Navigate to OwnersPage and Select My PropertyPage</li>
+                <li class="step">
+                  <span class="keyword">When </span>I Select List a Rental</li>
+                <li class="step">
+                  <span class="keyword">And </span>Enter Details in List Rental Property Page by selecting Property to Rent and Save</li>
+                <li class="step">
+                  <span class="keyword">Then </span>Property should dispalyed on Properties For Rent Page</li>
+              </ul>
+            </div>
+            <a class="scenario-link" href="javascript:showImageLink('list-a-rental')" title="Copy scenario link to clipboard.">
+              <i class="icon-link"> </i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="footer">
+        <p>Test results generated for: KeyReport</p>
+        <p>Generated on: 23 August 2018 21:02:50</p>
+        <p>Produced by Pickles, version 2.19.0.0</p>
+      </div>
+    </div>
+  </body>
+</html>

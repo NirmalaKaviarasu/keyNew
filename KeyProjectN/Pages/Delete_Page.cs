@@ -9,7 +9,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium.Support.UI;
 
-namespace KeyProjectN.Pages
+namespace KeyReport.Pages
 {
     class Delete_Page
     {
@@ -42,7 +42,7 @@ namespace KeyProjectN.Pages
             _Wait.Until(ExpectedConditions.ElementExists(By.Id("SearchBox")));
 
             Screenshot ss = ((ITakesScreenshot)_driver).GetScreenshot();
-            ss.SaveAsFile(@"C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\Screenshot\DeletedProperty.jpg");
+            ss.SaveAsFile(@"C:\Users\Mallik\Desktop\KeyProjectN\KeyProjectN\Screenshot\DeletedProperty.jpg");
 
         }
     }

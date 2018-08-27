@@ -2,6 +2,7 @@
 	In order Create New Property as "Affortable Housing"
 	As a Property Owner
 	I want to have Property details and Tenant Details
+	Pickle-Features -FeatureDirectory .\KeyProjectN\FeatureFiles -OutputDirectory C:\PicklesOup -SystemUnderTestName "KeyReport" -DocumentationFormat html
 
 @Create
 Scenario: Create New Property as "Affortable Housing"

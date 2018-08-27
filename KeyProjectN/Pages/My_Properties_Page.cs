@@ -10,7 +10,7 @@ using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium.Support.UI;
 using NUnit.Framework;
 
-namespace KeyProjectN.Pages
+namespace KeyReport.Pages
 {
     class My_Properties_Page
     {
@@ -83,7 +83,7 @@ namespace KeyProjectN.Pages
             _Wait.Until(ExpectedConditions.ElementExists(By.Id("SearchBox")));
 
             Screenshot ss = ((ITakesScreenshot)_driver).GetScreenshot();
-            ss.SaveAsFile(@"C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\Screenshot\CreatedProperty.jpg");
+            ss.SaveAsFile(@"C:\Users\Mallik\Desktop\KeyProjectN\KeyProjectN\Screenshot\CreatedProperty.jpg");
 
         }
 

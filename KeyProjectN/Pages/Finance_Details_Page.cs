@@ -9,7 +9,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium.Support.UI;
 
-namespace KeyProjectN.Pages
+namespace KeyReport.Pages
 {
     class Finance_Details_Page
     {

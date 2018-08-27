@@ -4,16 +4,20 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support;
 using OpenQA.Selenium;
 using NUnit.Framework;
-using KeyProjectN.Pages;
+using KeyReport.Pages;
 using OpenQA.Selenium.Support.UI;
+using AventStack.ExtentReports;
+using AventStack.ExtentReports.Reporter;
+using AventStack.ExtentReports.Gherkin.Model;
 
-namespace KeyProjectN
+namespace KeyReport
 {
     [Binding]
     public class ListARentalSteps
     {
         private IWebDriver driver;
-
+      
+      
         [BeforeScenario("ListARental")]
         public void SetUp()
         {
@@ -22,6 +26,7 @@ namespace KeyProjectN
             driver.Url = "http://dev.property.community/Account/Login";
         }
 
+       
         [Given(@"Login using Owners Account Details Page")]
         public void GivenLoginUsingOwnersAccountDetailsPage()
         {
@@ -64,8 +69,7 @@ namespace KeyProjectN
          {
              driver.Dispose();
          }
-
-     
+              
     }
 
 }

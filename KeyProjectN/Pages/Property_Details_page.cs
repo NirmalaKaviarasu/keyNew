@@ -12,7 +12,7 @@ using NUnit.Framework;
 using OpenQA.Selenium.Interactions;
 using System.Windows.Forms;
 
-namespace KeyProjectN.Pages
+namespace KeyReport.Pages
 {
     class Property_Details_page
     {

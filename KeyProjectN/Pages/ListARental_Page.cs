@@ -11,7 +11,7 @@ using OpenQA.Selenium.Support.UI;
 using NUnit.Framework;
 using OpenQA.Selenium.Interactions;
 
-namespace KeyProjectN.Pages
+namespace KeyReport.Pages
 {
     class ListARental_Page
     {
@@ -85,7 +85,7 @@ namespace KeyProjectN.Pages
             MovingCost.SendKeys("2000");
             TargetRent.SendKeys("200");
             AvailableDate.SendKeys("10/05/2019");
-            System.Threading.Thread.Sleep(50);
+            System.Threading.Thread.Sleep(10);
 
             OccupantsCount.SendKeys("2");
             UploadPhoto.SendKeys(@"C:\Users\Mallik\Desktop\Test.jpg");
@@ -94,8 +94,8 @@ namespace KeyProjectN.Pages
 
             Save.Click();
 
-            IAlert alert = _driver.SwitchTo().Alert();
-            alert.Accept();
+           // IAlert alert = _driver.SwitchTo().Alert();
+           // alert.Accept();
 
            // System.Threading.Thread.Sleep(50);
 
@@ -103,10 +103,10 @@ namespace KeyProjectN.Pages
 
         public void takescreenshot()
         {
-            _Wait.Until(ExpectedConditions.ElementExists(By.XPath("//*[@id='main-content']/div/div[1]/div[2]/div/div[1]/div/div/div[1]")));
+            _Wait.Until(ExpectedConditions.ElementExists(By.XPath("//*[@id='main-content']/div/div[1]/div/div[2]/div/div[2]/a[1]")));
 
             Screenshot ss = ((ITakesScreenshot)_driver).GetScreenshot();
-            ss.SaveAsFile(@"C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\Screenshot\RentedProperty.jpg");
+            ss.SaveAsFile(@"C:\Users\Mallik\Desktop\KeyProjectN\KeyProjectN\Screenshot\RentedProperty.jpg");
 
         }
     }

@@ -8,7 +8,7 @@ using OpenQA.Selenium.Support;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 
-namespace KeyProjectN.Pages
+namespace KeyReport.Pages
 {
     public class Login_Page
         {
