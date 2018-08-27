@@ -1,0 +1,872 @@
+﻿[21/08/2018 11:05:47 AM Informational] ------ Run test started ------
+[21/08/2018 11:05:59 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:05:59 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:06:02 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:07:50 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:07:51 AM Informational] ========== Run test finished: 1 run (0:02:04.4022012) ==========
+[21/08/2018 11:34:45 AM Informational] ------ Discover test started ------
+[21/08/2018 11:34:47 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:34:48 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:34:48 AM Informational] ========== Discover test finished: 1 found (0:00:03.4929517) ==========
+[21/08/2018 11:34:52 AM Informational] ------ Run test started ------
+[21/08/2018 11:34:54 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:34:54 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:34:55 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:35:19 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:35:19 AM Informational] ========== Run test finished: 1 run (0:00:27.642489) ==========
+[21/08/2018 1:58:10 PM Informational] ------ Discover test started ------
+[21/08/2018 1:58:12 PM Warning] Could not find file C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll.
+[21/08/2018 1:58:12 PM Warning] None of the specified source(s) 'C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll' is valid. Fix the above errors/warnings and then try again. 
+[21/08/2018 1:58:12 PM Informational] ========== Discover test finished: 0 found (0:00:02.1225357) ==========
+[21/08/2018 1:59:42 PM Informational] ------ Discover test started ------
+[21/08/2018 1:59:45 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 1:59:46 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 1:59:46 PM Informational] ========== Discover test finished: 1 found (0:00:04.0751793) ==========
+[21/08/2018 1:59:48 PM Informational] ------ Run test started ------
+[21/08/2018 1:59:50 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 1:59:50 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 1:59:51 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 2:00:48 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 2:00:48 PM Informational] ========== Run test finished: 1 run (0:00:59.8527277) ==========
+[21/08/2018 3:10:58 PM Informational] ------ Run test started ------
+[21/08/2018 3:11:01 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 3:11:01 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 3:11:02 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 3:11:36 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 3:11:36 PM Informational] ========== Run test finished: 1 run (0:00:38.7234322) ==========
+[21/08/2018 3:19:31 PM Informational] ------ Discover test started ------
+[21/08/2018 3:19:35 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 3:19:36 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 3:19:36 PM Informational] ========== Discover test finished: 1 found (0:00:05.5588197) ==========
+[21/08/2018 3:19:39 PM Informational] ------ Run test started ------
+[21/08/2018 3:19:41 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 3:19:41 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 3:19:42 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 3:20:07 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 3:20:07 PM Informational] ========== Run test finished: 1 run (0:00:27.5965558) ==========
+[21/08/2018 3:24:00 PM Informational] ------ Discover test started ------
+[21/08/2018 3:24:05 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 3:24:06 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 3:24:07 PM Informational] ========== Discover test finished: 1 found (0:00:06.1767601) ==========
+[21/08/2018 3:24:09 PM Informational] ------ Run test started ------
+[21/08/2018 3:24:10 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 3:24:10 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 3:24:11 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 3:24:40 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 3:24:40 PM Informational] ========== Run test finished: 1 run (0:00:31.44376) ==========
+[21/08/2018 3:55:31 PM Informational] ------ Discover test started ------
+[21/08/2018 3:55:36 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 3:55:38 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 3:55:38 PM Informational] ========== Discover test finished: 1 found (0:00:06.1715245) ==========
+[21/08/2018 3:55:40 PM Informational] ------ Run test started ------
+[21/08/2018 3:55:42 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 3:55:42 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 3:55:43 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 3:56:07 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 3:56:07 PM Informational] ========== Run test finished: 1 run (0:00:27.3572101) ==========
+[21/08/2018 3:58:18 PM Informational] ------ Discover test started ------
+[21/08/2018 3:58:23 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 3:58:24 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 3:58:24 PM Informational] ========== Discover test finished: 1 found (0:00:05.6223872) ==========
+[21/08/2018 3:58:26 PM Informational] ------ Run test started ------
+[21/08/2018 3:58:28 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 3:58:28 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 3:58:29 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 3:58:55 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 3:58:55 PM Informational] ========== Run test finished: 1 run (0:00:29.5574768) ==========
+[21/08/2018 4:00:16 PM Informational] ------ Discover test started ------
+[21/08/2018 4:00:20 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 4:00:21 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 4:00:21 PM Informational] ========== Discover test finished: 1 found (0:00:05.4799949) ==========
+[21/08/2018 7:23:40 PM Informational] ------ Discover test started ------
+[21/08/2018 7:23:46 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:23:49 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:23:49 PM Informational] ========== Discover test finished: 1 found (0:00:09.0669822) ==========
+[21/08/2018 7:33:52 PM Informational] ------ Discover test started ------
+[21/08/2018 7:33:57 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:34:00 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:34:00 PM Informational] ========== Discover test finished: 1 found (0:00:08.1615423) ==========
+[21/08/2018 7:34:04 PM Informational] ------ Run test started ------
+[21/08/2018 7:34:07 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 7:34:07 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 7:34:10 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 7:35:16 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 7:35:17 PM Informational] ========== Run test finished: 1 run (0:01:12.6446184) ==========
+[21/08/2018 7:36:50 PM Informational] ------ Discover test started ------
+[21/08/2018 7:36:55 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:36:57 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:36:58 PM Informational] ========== Discover test finished: 1 found (0:00:07.8528895) ==========
+[21/08/2018 7:37:02 PM Informational] ------ Run test started ------
+[21/08/2018 7:37:07 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 7:37:07 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 7:37:09 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 7:38:48 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 7:38:48 PM Informational] ========== Run test finished: 1 run (0:01:46.1143609) ==========
+[21/08/2018 7:41:17 PM Informational] ------ Discover test started ------
+[21/08/2018 7:41:23 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:41:25 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:41:25 PM Informational] ========== Discover test finished: 1 found (0:00:08.3626315) ==========
+[21/08/2018 7:41:35 PM Informational] ------ Run test started ------
+[21/08/2018 7:41:37 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 7:41:37 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 7:41:38 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 7:42:35 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 7:42:36 PM Informational] ========== Run test finished: 1 run (0:01:01.0280002) ==========
+[21/08/2018 7:47:32 PM Informational] ------ Discover test started ------
+[21/08/2018 7:47:36 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:47:37 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:47:38 PM Informational] ========== Discover test finished: 1 found (0:00:05.7030536) ==========
+[21/08/2018 7:47:41 PM Informational] ------ Run test started ------
+[21/08/2018 7:47:43 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 7:47:43 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 7:47:44 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 7:49:36 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 7:49:36 PM Informational] ========== Run test finished: 1 run (0:01:55.7677423) ==========
+[21/08/2018 7:51:42 PM Informational] ------ Discover test started ------
+[21/08/2018 7:51:46 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:51:47 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:51:48 PM Informational] ========== Discover test finished: 1 found (0:00:05.8353486) ==========
+[21/08/2018 7:51:51 PM Informational] ------ Run test started ------
+[21/08/2018 7:51:53 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 7:51:53 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 7:51:54 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 7:52:24 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 7:52:24 PM Informational] ========== Run test finished: 1 run (0:00:33.3679691) ==========
+[21/08/2018 7:53:26 PM Informational] ------ Discover test started ------
+[21/08/2018 7:53:30 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:53:32 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:53:32 PM Informational] ========== Discover test finished: 1 found (0:00:05.699269) ==========
+[21/08/2018 7:53:36 PM Informational] ------ Run test started ------
+[21/08/2018 7:53:38 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 7:53:38 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 7:53:39 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 7:54:05 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 7:54:05 PM Informational] ========== Run test finished: 1 run (0:00:29.8039452) ==========
+[21/08/2018 7:56:52 PM Informational] ------ Discover test started ------
+[21/08/2018 7:56:56 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:56:57 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:56:57 PM Informational] ========== Discover test finished: 1 found (0:00:05.7446301) ==========
+[21/08/2018 7:57:01 PM Informational] ------ Run test started ------
+[21/08/2018 7:57:03 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 7:57:03 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 7:57:04 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 7:57:52 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 7:57:52 PM Informational] ========== Run test finished: 1 run (0:00:51.318631) ==========
+[21/08/2018 7:59:17 PM Informational] ------ Discover test started ------
+[21/08/2018 7:59:22 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 7:59:23 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 7:59:23 PM Informational] ========== Discover test finished: 1 found (0:00:05.9614819) ==========
+[21/08/2018 7:59:25 PM Informational] ------ Run test started ------
+[21/08/2018 7:59:27 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 7:59:27 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 7:59:28 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:00:16 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:00:16 PM Informational] ========== Run test finished: 1 run (0:00:50.5362243) ==========
+[21/08/2018 8:17:02 PM Informational] ------ Discover test started ------
+[21/08/2018 8:17:06 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 8:17:07 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 8:17:07 PM Informational] ========== Discover test finished: 1 found (0:00:05.2886006) ==========
+[21/08/2018 8:17:15 PM Informational] ------ Run test started ------
+[21/08/2018 8:17:17 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 8:17:17 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 8:17:18 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:18:44 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:18:44 PM Informational] ========== Run test finished: 1 run (0:01:29.207325) ==========
+[21/08/2018 8:23:47 PM Informational] ------ Discover test started ------
+[21/08/2018 8:23:52 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 8:23:53 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 8:23:53 PM Informational] ========== Discover test finished: 1 found (0:00:05.6436574) ==========
+[21/08/2018 8:24:06 PM Informational] ------ Run test started ------
+[21/08/2018 8:24:07 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 8:24:07 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 8:24:08 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:24:58 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:24:58 PM Informational] ========== Run test finished: 1 run (0:00:52.34089) ==========
+[21/08/2018 8:27:07 PM Informational] ------ Discover test started ------
+[21/08/2018 8:27:11 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 8:27:12 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 8:27:12 PM Informational] ========== Discover test finished: 1 found (0:00:05.3523501) ==========
+[21/08/2018 8:27:20 PM Informational] ------ Run test started ------
+[21/08/2018 8:27:22 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 8:27:22 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 8:27:23 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:28:10 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:28:10 PM Informational] ========== Run test finished: 1 run (0:00:49.9489736) ==========
+[21/08/2018 8:32:02 PM Informational] ------ Discover test started ------
+[21/08/2018 8:32:06 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 8:32:07 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 8:32:07 PM Informational] ========== Discover test finished: 1 found (0:00:05.2175141) ==========
+[21/08/2018 8:32:09 PM Informational] ------ Run test started ------
+[21/08/2018 8:32:11 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 8:32:11 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 8:32:12 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:32:37 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:32:37 PM Informational] ========== Run test finished: 1 run (0:00:27.9054068) ==========
+[21/08/2018 8:44:29 PM Informational] ------ Discover test started ------
+[21/08/2018 8:44:34 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 8:44:35 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 8:44:35 PM Informational] ========== Discover test finished: 1 found (0:00:05.4116915) ==========
+[21/08/2018 8:44:52 PM Informational] ------ Run test started ------
+[21/08/2018 8:44:54 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 8:44:54 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 8:44:54 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:46:25 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:46:25 PM Informational] ========== Run test finished: 1 run (0:01:33.6593551) ==========
+[21/08/2018 8:49:02 PM Informational] ------ Discover test started ------
+[21/08/2018 8:49:06 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 8:49:07 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 8:49:07 PM Informational] ========== Discover test finished: 1 found (0:00:05.3816543) ==========
+[21/08/2018 8:49:11 PM Informational] ------ Run test started ------
+[21/08/2018 8:49:13 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 8:49:13 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 8:49:14 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:50:06 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:50:06 PM Informational] ========== Run test finished: 1 run (0:00:54.749404) ==========
+[21/08/2018 8:50:39 PM Informational] ------ Discover test started ------
+[21/08/2018 8:50:44 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 8:50:45 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 8:50:45 PM Informational] ========== Discover test finished: 1 found (0:00:05.3549952) ==========
+[21/08/2018 8:50:47 PM Informational] ------ Run test started ------
+[21/08/2018 8:50:49 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 8:50:49 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 8:50:50 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:51:57 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:51:57 PM Informational] ========== Run test finished: 1 run (0:01:09.9489908) ==========
+[21/08/2018 8:52:42 PM Informational] ------ Run test started ------
+[21/08/2018 8:52:46 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 8:52:46 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 8:52:47 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 8:53:12 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 8:53:12 PM Informational] ========== Run test finished: 1 run (0:00:30.230757) ==========
+[21/08/2018 9:02:37 PM Informational] ------ Discover test started ------
+[21/08/2018 9:02:41 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:02:42 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:02:42 PM Informational] ========== Discover test finished: 1 found (0:00:05.3836811) ==========
+[21/08/2018 9:02:53 PM Informational] ------ Run test started ------
+[21/08/2018 9:02:55 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:02:55 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:02:56 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:03:23 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:03:23 PM Informational] ========== Run test finished: 1 run (0:00:30.1328775) ==========
+[21/08/2018 9:06:45 PM Informational] ------ Discover test started ------
+[21/08/2018 9:06:49 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:06:50 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:06:50 PM Informational] ========== Discover test finished: 1 found (0:00:05.2789017) ==========
+[21/08/2018 9:06:54 PM Informational] ------ Run test started ------
+[21/08/2018 9:06:56 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:06:56 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:06:57 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:07:25 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:07:25 PM Informational] ========== Run test finished: 1 run (0:00:31.6438204) ==========
+[21/08/2018 9:08:06 PM Informational] ------ Run test started ------
+[21/08/2018 9:08:09 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:08:09 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:08:10 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:08:43 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:08:43 PM Informational] ========== Run test finished: 1 run (0:00:37.7301338) ==========
+[21/08/2018 9:12:16 PM Informational] ------ Discover test started ------
+[21/08/2018 9:12:20 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:12:21 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:12:21 PM Informational] ========== Discover test finished: 1 found (0:00:05.3710828) ==========
+[21/08/2018 9:12:27 PM Informational] ------ Run test started ------
+[21/08/2018 9:12:28 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:12:28 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:12:29 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:12:49 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:12:49 PM Informational] ========== Run test finished: 1 run (0:00:22.1927536) ==========
+[21/08/2018 9:14:34 PM Informational] ------ Discover test started ------
+[21/08/2018 9:14:38 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:14:40 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:14:40 PM Informational] ========== Discover test finished: 1 found (0:00:06.124803) ==========
+[21/08/2018 9:14:42 PM Informational] ------ Run test started ------
+[21/08/2018 9:14:44 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:14:44 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:14:45 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:15:39 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:15:40 PM Informational] ========== Run test finished: 1 run (0:00:57.738405) ==========
+[21/08/2018 9:20:02 PM Informational] ------ Discover test started ------
+[21/08/2018 9:20:04 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:20:05 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:20:05 PM Informational] ========== Discover test finished: 1 found (0:00:03.3579653) ==========
+[21/08/2018 9:20:11 PM Informational] ------ Run test started ------
+[21/08/2018 9:20:13 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:20:13 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:20:14 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:21:06 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:21:06 PM Informational] ========== Run test finished: 1 run (0:00:55.0233983) ==========
+[21/08/2018 9:23:03 PM Informational] ------ Discover test started ------
+[21/08/2018 9:23:05 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:23:06 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:23:07 PM Informational] ========== Discover test finished: 1 found (0:00:03.5729471) ==========
+[21/08/2018 9:23:12 PM Informational] ------ Run test started ------
+[21/08/2018 9:23:14 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:23:14 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:23:15 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:24:04 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:24:04 PM Informational] ========== Run test finished: 1 run (0:00:52.2719927) ==========
+[21/08/2018 9:24:10 PM Informational] ------ Run test started ------
+[21/08/2018 9:24:12 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:24:12 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:24:13 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:25:18 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:25:18 PM Informational] ========== Run test finished: 1 run (0:01:08.0785694) ==========
+[21/08/2018 9:32:01 PM Informational] ------ Discover test started ------
+[21/08/2018 9:32:04 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:32:06 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:32:06 PM Informational] ========== Discover test finished: 1 found (0:00:04.5679327) ==========
+[21/08/2018 9:32:09 PM Informational] ------ Run test started ------
+[21/08/2018 9:32:11 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:32:11 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:32:12 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:32:53 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:32:53 PM Informational] ========== Run test finished: 1 run (0:00:44.1716037) ==========
+[21/08/2018 9:35:19 PM Informational] ------ Discover test started ------
+[21/08/2018 9:35:21 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:35:22 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:35:22 PM Informational] ========== Discover test finished: 1 found (0:00:02.981957) ==========
+[21/08/2018 9:35:25 PM Informational] ------ Run test started ------
+[21/08/2018 9:35:27 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:35:27 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:35:28 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:36:23 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:36:23 PM Informational] ========== Run test finished: 1 run (0:00:58.1386364) ==========
+[21/08/2018 9:37:02 PM Informational] ------ Discover test started ------
+[21/08/2018 9:37:05 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:37:06 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:37:06 PM Informational] ========== Discover test finished: 1 found (0:00:03.7539288) ==========
+[21/08/2018 9:37:09 PM Informational] ------ Run test started ------
+[21/08/2018 9:37:11 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:37:11 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:37:12 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:37:42 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:37:42 PM Informational] ========== Run test finished: 1 run (0:00:32.4215112) ==========
+[21/08/2018 9:39:27 PM Informational] ------ Discover test started ------
+[21/08/2018 9:39:30 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:39:31 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:39:31 PM Informational] ========== Discover test finished: 1 found (0:00:04.1829555) ==========
+[21/08/2018 9:39:34 PM Informational] ------ Run test started ------
+[21/08/2018 9:39:36 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 9:39:36 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 9:39:37 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 9:40:12 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 9:40:12 PM Informational] ========== Run test finished: 1 run (0:00:38.0516117) ==========
+[21/08/2018 9:59:13 PM Informational] ------ Discover test started ------
+[21/08/2018 9:59:15 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 9:59:17 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 9:59:17 PM Informational] ========== Discover test finished: 1 found (0:00:03.9272168) ==========
+[21/08/2018 10:12:05 PM Informational] ------ Discover test started ------
+[21/08/2018 10:12:07 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 10:12:09 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 10:12:09 PM Informational] ========== Discover test finished: 1 found (0:00:03.7923574) ==========
+[21/08/2018 10:12:12 PM Informational] ------ Run test started ------
+[21/08/2018 10:12:14 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 10:12:14 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 10:12:15 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 10:12:47 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 10:12:47 PM Informational] ========== Run test finished: 1 run (0:00:34.841259) ==========
+[21/08/2018 10:19:23 PM Informational] ------ Discover test started ------
+[21/08/2018 10:19:25 PM Warning] Could not find file C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll.
+[21/08/2018 10:19:25 PM Warning] None of the specified source(s) 'C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll' is valid. Fix the above errors/warnings and then try again. 
+[21/08/2018 10:19:25 PM Informational] ========== Discover test finished: 0 found (0:00:02.0825386) ==========
+[21/08/2018 10:33:27 PM Informational] ------ Discover test started ------
+[21/08/2018 10:33:29 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 10:33:30 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 10:33:31 PM Informational] ========== Discover test finished: 1 found (0:00:03.9030991) ==========
+[21/08/2018 10:34:54 PM Informational] ------ Run test started ------
+[21/08/2018 10:34:57 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 10:34:57 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 10:34:58 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 10:35:27 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 10:35:27 PM Informational] ========== Run test finished: 1 run (0:00:32.8846594) ==========
+[21/08/2018 10:43:13 PM Informational] ------ Discover test started ------
+[21/08/2018 10:43:16 PM Warning] Could not find file C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll.
+[21/08/2018 10:43:16 PM Warning] None of the specified source(s) 'C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll' is valid. Fix the above errors/warnings and then try again. 
+[21/08/2018 10:43:16 PM Informational] ========== Discover test finished: 0 found (0:00:03.1102133) ==========
+[21/08/2018 10:43:25 PM Informational] ------ Discover test started ------
+[21/08/2018 10:43:27 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 10:43:28 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 10:43:28 PM Informational] ========== Discover test finished: 1 found (0:00:03.2845824) ==========
+[21/08/2018 10:43:31 PM Informational] ------ Run test started ------
+[21/08/2018 10:43:33 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 10:43:33 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 10:43:34 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 10:44:10 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 10:44:10 PM Informational] ========== Run test finished: 1 run (0:00:38.6240259) ==========
+[21/08/2018 10:47:25 PM Informational] ------ Discover test started ------
+[21/08/2018 10:47:29 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 10:47:30 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 10:47:31 PM Informational] ========== Discover test finished: 1 found (0:00:05.8747741) ==========
+[21/08/2018 10:47:33 PM Informational] ------ Run test started ------
+[21/08/2018 10:47:35 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 10:47:35 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 10:47:37 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 10:48:05 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 10:48:05 PM Informational] ========== Run test finished: 1 run (0:00:32.0387775) ==========
+[21/08/2018 10:48:30 PM Informational] ------ Discover test started ------
+[21/08/2018 10:48:35 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 10:48:36 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 10:48:36 PM Informational] ========== Discover test finished: 1 found (0:00:05.8750653) ==========
+[21/08/2018 10:48:40 PM Informational] ------ Run test started ------
+[21/08/2018 10:48:42 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 10:48:42 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 10:48:43 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 10:49:22 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 10:49:22 PM Informational] ========== Run test finished: 1 run (0:00:42.6412835) ==========
+[21/08/2018 10:51:21 PM Informational] ------ Discover test started ------
+[21/08/2018 10:51:24 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 10:51:26 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 10:51:26 PM Informational] ========== Discover test finished: 1 found (0:00:05.2805746) ==========
+[21/08/2018 10:51:29 PM Informational] ------ Run test started ------
+[21/08/2018 10:51:31 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 10:51:31 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 10:51:32 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 10:52:01 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 10:52:01 PM Informational] ========== Run test finished: 1 run (0:00:32.0335276) ==========
+[21/08/2018 10:52:36 PM Informational] ------ Discover test started ------
+[21/08/2018 10:52:38 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 10:52:40 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 10:52:40 PM Informational] ========== Discover test finished: 1 found (0:00:03.4163645) ==========
+[21/08/2018 10:52:43 PM Informational] ------ Run test started ------
+[21/08/2018 10:52:45 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 10:52:45 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 10:52:46 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 10:53:12 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 10:53:13 PM Informational] ========== Run test finished: 1 run (0:00:29.7806352) ==========
+[21/08/2018 11:01:04 PM Informational] ------ Discover test started ------
+[21/08/2018 11:01:07 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:01:09 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:01:09 PM Informational] ========== Discover test finished: 1 found (0:00:05.2859179) ==========
+[21/08/2018 11:01:12 PM Informational] ------ Run test started ------
+[21/08/2018 11:01:15 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:01:15 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:01:16 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:01:49 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:01:49 PM Informational] ========== Run test finished: 1 run (0:00:36.9338561) ==========
+[21/08/2018 11:11:30 PM Informational] ------ Discover test started ------
+[21/08/2018 11:11:32 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:11:33 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:11:33 PM Informational] ========== Discover test finished: 1 found (0:00:03.8097451) ==========
+[21/08/2018 11:11:45 PM Informational] ------ Discover test started ------
+[21/08/2018 11:11:47 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:11:48 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:11:48 PM Informational] ========== Discover test finished: 1 found (0:00:03.3229501) ==========
+[21/08/2018 11:11:53 PM Informational] ------ Run test started ------
+[21/08/2018 11:11:55 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:11:55 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:11:56 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:12:29 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:12:29 PM Informational] ========== Run test finished: 1 run (0:00:36.0932207) ==========
+[21/08/2018 11:24:09 PM Informational] ------ Discover test started ------
+[21/08/2018 11:24:12 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:24:13 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:24:13 PM Informational] ========== Discover test finished: 1 found (0:00:04.0410567) ==========
+[21/08/2018 11:24:16 PM Informational] ------ Run test started ------
+[21/08/2018 11:24:18 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:24:18 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:24:19 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:24:53 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:24:54 PM Informational] ========== Run test finished: 1 run (0:00:37.2877308) ==========
+[21/08/2018 11:25:36 PM Informational] ------ Discover test started ------
+[21/08/2018 11:25:40 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:25:42 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:25:42 PM Informational] ========== Discover test finished: 1 found (0:00:05.4820524) ==========
+[21/08/2018 11:25:45 PM Informational] ------ Run test started ------
+[21/08/2018 11:25:47 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:25:47 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:25:49 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:26:19 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:26:19 PM Informational] ========== Run test finished: 1 run (0:00:33.811847) ==========
+[21/08/2018 11:27:08 PM Informational] ------ Discover test started ------
+[21/08/2018 11:27:13 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:27:15 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:27:15 PM Informational] ========== Discover test finished: 1 found (0:00:06.2204671) ==========
+[21/08/2018 11:27:17 PM Informational] ------ Run test started ------
+[21/08/2018 11:27:20 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:27:20 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:27:21 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:27:51 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:27:51 PM Informational] ========== Run test finished: 1 run (0:00:33.4653767) ==========
+[21/08/2018 11:35:24 PM Informational] ------ Discover test started ------
+[21/08/2018 11:35:28 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:35:30 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:35:30 PM Informational] ========== Discover test finished: 1 found (0:00:05.8289195) ==========
+[21/08/2018 11:35:33 PM Informational] ------ Run test started ------
+[21/08/2018 11:35:35 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:35:35 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:35:37 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:36:06 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:36:07 PM Informational] ========== Run test finished: 1 run (0:00:33.6370322) ==========
+[21/08/2018 11:37:14 PM Informational] ------ Discover test started ------
+[21/08/2018 11:37:19 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:37:20 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:37:20 PM Informational] ========== Discover test finished: 1 found (0:00:05.997205) ==========
+[21/08/2018 11:37:24 PM Informational] ------ Run test started ------
+[21/08/2018 11:37:27 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:37:27 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:37:28 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:37:58 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:37:58 PM Informational] ========== Run test finished: 1 run (0:00:34.2667097) ==========
+[21/08/2018 11:42:10 PM Informational] ------ Discover test started ------
+[21/08/2018 11:42:15 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:42:16 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:42:17 PM Informational] ========== Discover test finished: 1 found (0:00:06.4034807) ==========
+[21/08/2018 11:42:20 PM Informational] ------ Run test started ------
+[21/08/2018 11:42:23 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:42:23 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:42:24 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:44:23 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:44:23 PM Informational] ========== Run test finished: 1 run (0:02:03.0600396) ==========
+[21/08/2018 11:47:50 PM Informational] ------ Discover test started ------
+[21/08/2018 11:47:55 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:47:56 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:47:57 PM Informational] ========== Discover test finished: 1 found (0:00:06.3088403) ==========
+[21/08/2018 11:48:00 PM Informational] ------ Run test started ------
+[21/08/2018 11:48:03 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[21/08/2018 11:48:03 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[21/08/2018 11:48:04 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[21/08/2018 11:49:02 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[21/08/2018 11:49:02 PM Informational] ========== Run test finished: 1 run (0:01:01.3169496) ==========
+[21/08/2018 11:51:08 PM Informational] ------ Discover test started ------
+[21/08/2018 11:51:13 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[21/08/2018 11:51:14 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[21/08/2018 11:51:14 PM Informational] ========== Discover test finished: 1 found (0:00:06.2643126) ==========
+[22/08/2018 12:05:53 AM Informational] ------ Discover test started ------
+[22/08/2018 12:05:58 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:05:59 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:05:59 AM Informational] ========== Discover test finished: 1 found (0:00:05.8347912) ==========
+[22/08/2018 12:06:02 AM Informational] ------ Run test started ------
+[22/08/2018 12:06:04 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:06:04 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:06:05 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:07:53 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:07:53 AM Informational] ========== Run test finished: 1 run (0:01:51.6179062) ==========
+[22/08/2018 12:07:59 AM Informational] ------ Discover test started ------
+[22/08/2018 12:08:02 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:08:03 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:08:03 AM Informational] ========== Discover test finished: 1 found (0:00:03.9713654) ==========
+[22/08/2018 12:08:06 AM Informational] ------ Run test started ------
+[22/08/2018 12:08:09 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:08:09 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:08:10 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:09:47 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:09:47 AM Informational] ========== Run test finished: 1 run (0:01:41.1989826) ==========
+[22/08/2018 12:10:10 AM Informational] ------ Discover test started ------
+[22/08/2018 12:10:14 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:10:15 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:10:16 AM Informational] ========== Discover test finished: 1 found (0:00:05.9694076) ==========
+[22/08/2018 12:10:19 AM Informational] ------ Run test started ------
+[22/08/2018 12:10:22 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:10:22 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:10:23 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:11:15 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:11:15 AM Informational] ========== Run test finished: 1 run (0:00:55.7832832) ==========
+[22/08/2018 12:15:53 AM Informational] ------ Discover test started ------
+[22/08/2018 12:15:58 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:15:59 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:15:59 AM Informational] ========== Discover test finished: 1 found (0:00:05.916024) ==========
+[22/08/2018 12:16:02 AM Informational] ------ Run test started ------
+[22/08/2018 12:16:04 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:16:04 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:16:05 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:16:59 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:16:59 AM Informational] ========== Run test finished: 1 run (0:00:57.2465174) ==========
+[22/08/2018 12:23:39 AM Informational] ------ Discover test started ------
+[22/08/2018 12:23:43 AM Warning] Could not find file C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll.
+[22/08/2018 12:23:43 AM Warning] None of the specified source(s) 'C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll' is valid. Fix the above errors/warnings and then try again. 
+[22/08/2018 12:23:43 AM Informational] ========== Discover test finished: 0 found (0:00:03.9217617) ==========
+[22/08/2018 12:23:46 AM Informational] ------ Discover test started ------
+[22/08/2018 12:23:48 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:23:49 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:23:49 AM Informational] ========== Discover test finished: 1 found (0:00:03.5831465) ==========
+[22/08/2018 12:23:52 AM Informational] ------ Run test started ------
+[22/08/2018 12:23:54 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:23:54 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:23:55 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:24:59 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:24:59 AM Informational] ========== Run test finished: 1 run (0:01:06.7592352) ==========
+[22/08/2018 12:25:43 AM Informational] ------ Run test started ------
+[22/08/2018 12:25:47 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:25:47 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:25:48 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:26:42 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:26:43 AM Informational] ========== Run test finished: 1 run (0:00:59.9008016) ==========
+[22/08/2018 12:33:25 AM Informational] ------ Discover test started ------
+[22/08/2018 12:33:30 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:33:31 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:33:31 AM Informational] ========== Discover test finished: 1 found (0:00:05.5117653) ==========
+[22/08/2018 12:33:40 AM Informational] ------ Run test started ------
+[22/08/2018 12:33:42 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:33:43 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:33:43 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:34:38 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:34:38 AM Informational] ========== Run test finished: 1 run (0:00:57.7379382) ==========
+[22/08/2018 12:37:52 AM Informational] ------ Discover test started ------
+[22/08/2018 12:37:56 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:37:57 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:37:57 AM Informational] ========== Discover test finished: 1 found (0:00:05.5941472) ==========
+[22/08/2018 12:38:00 AM Informational] ------ Run test started ------
+[22/08/2018 12:38:02 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:38:02 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:38:03 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:39:50 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:39:51 AM Informational] ========== Run test finished: 1 run (0:01:50.7874678) ==========
+[22/08/2018 12:40:35 AM Informational] ------ Discover test started ------
+[22/08/2018 12:40:38 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:40:39 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:40:40 AM Informational] ========== Discover test finished: 1 found (0:00:04.9199299) ==========
+[22/08/2018 12:40:42 AM Informational] ------ Run test started ------
+[22/08/2018 12:40:44 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:40:44 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:40:45 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:42:34 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:42:34 AM Informational] ========== Run test finished: 1 run (0:01:51.9997526) ==========
+[22/08/2018 12:43:06 AM Informational] ------ Discover test started ------
+[22/08/2018 12:43:10 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:43:11 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:43:11 AM Informational] ========== Discover test finished: 1 found (0:00:05.2347188) ==========
+[22/08/2018 12:43:34 AM Informational] ------ Run test started ------
+[22/08/2018 12:43:38 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:43:38 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:43:39 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:44:35 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:44:36 AM Informational] ========== Run test finished: 1 run (0:01:01.7765019) ==========
+[22/08/2018 12:46:54 AM Informational] ------ Discover test started ------
+[22/08/2018 12:46:58 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:47:00 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:47:00 AM Informational] ========== Discover test finished: 1 found (0:00:05.7655992) ==========
+[22/08/2018 12:47:20 AM Informational] ------ Run test started ------
+[22/08/2018 12:47:25 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:47:25 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:47:26 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:48:22 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:48:22 AM Informational] ========== Run test finished: 1 run (0:01:01.3431401) ==========
+[22/08/2018 12:50:18 AM Informational] ------ Discover test started ------
+[22/08/2018 12:50:22 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:50:23 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:50:23 AM Informational] ========== Discover test finished: 1 found (0:00:05.494217) ==========
+[22/08/2018 12:50:26 AM Informational] ------ Run test started ------
+[22/08/2018 12:50:28 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:50:28 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:50:29 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:51:24 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:51:24 AM Informational] ========== Run test finished: 1 run (0:00:57.8932589) ==========
+[22/08/2018 12:54:41 AM Informational] ------ Discover test started ------
+[22/08/2018 12:54:45 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:54:46 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:54:46 AM Informational] ========== Discover test finished: 1 found (0:00:05.2459361) ==========
+[22/08/2018 12:54:49 AM Informational] ------ Run test started ------
+[22/08/2018 12:54:51 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:54:51 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:54:52 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:55:41 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:55:41 AM Informational] ========== Run test finished: 1 run (0:00:51.6212263) ==========
+[22/08/2018 12:56:36 AM Informational] ------ Discover test started ------
+[22/08/2018 12:56:38 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:56:39 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:56:39 AM Informational] ========== Discover test finished: 1 found (0:00:03.1059501) ==========
+[22/08/2018 12:56:49 AM Informational] ------ Run test started ------
+[22/08/2018 12:56:51 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:56:51 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:56:52 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:57:15 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:57:15 AM Informational] ========== Run test finished: 1 run (0:00:26.1144446) ==========
+[22/08/2018 12:57:34 AM Informational] ------ Run test started ------
+[22/08/2018 12:57:37 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:57:37 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:57:38 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:58:28 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:58:28 AM Informational] ========== Run test finished: 1 run (0:00:53.5526197) ==========
+[22/08/2018 1:13:35 AM Informational] ------ Discover test started ------
+[22/08/2018 1:13:39 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:13:40 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:13:41 AM Informational] ========== Discover test finished: 1 found (0:00:05.026145) ==========
+[22/08/2018 1:14:53 AM Informational] ------ Discover test started ------
+[22/08/2018 1:14:56 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:14:57 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:14:57 AM Informational] ========== Discover test finished: 1 found (0:00:04.0006286) ==========
+[22/08/2018 1:14:59 AM Informational] ------ Run test started ------
+[22/08/2018 1:15:02 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 1:15:02 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 1:15:03 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 1:15:59 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 1:15:59 AM Informational] ========== Run test finished: 1 run (0:00:59.3499016) ==========
+[22/08/2018 1:22:28 AM Informational] ------ Discover test started ------
+[22/08/2018 1:22:32 AM Warning] Could not find file C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll.
+[22/08/2018 1:22:32 AM Warning] None of the specified source(s) 'C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll' is valid. Fix the above errors/warnings and then try again. 
+[22/08/2018 1:22:32 AM Informational] ========== Discover test finished: 0 found (0:00:03.832761) ==========
+[22/08/2018 1:22:47 AM Informational] ------ Discover test started ------
+[22/08/2018 1:22:49 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:22:50 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:22:50 AM Informational] ========== Discover test finished: 1 found (0:00:03.2949499) ==========
+[22/08/2018 1:22:55 AM Informational] ------ Run test started ------
+[22/08/2018 1:22:57 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 1:22:57 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 1:22:58 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 1:23:45 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 1:23:45 AM Informational] ========== Run test finished: 1 run (0:00:49.9201265) ==========
+[22/08/2018 1:35:21 AM Informational] ------ Discover test started ------
+[22/08/2018 1:35:25 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:35:26 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:35:27 AM Informational] ========== Discover test finished: 1 found (0:00:05.4817184) ==========
+[22/08/2018 1:35:29 AM Informational] ------ Run test started ------
+[22/08/2018 1:35:30 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 1:35:30 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 1:35:31 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 1:36:17 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 1:36:17 AM Informational] ========== Run test finished: 1 run (0:00:48.6504085) ==========
+[22/08/2018 1:47:36 AM Informational] ------ Discover test started ------
+[22/08/2018 1:47:41 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:47:42 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:47:42 AM Informational] ========== Discover test finished: 1 found (0:00:05.7657184) ==========
+[22/08/2018 1:47:45 AM Informational] ------ Run test started ------
+[22/08/2018 1:47:47 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 1:47:47 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 1:47:48 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 1:48:35 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 1:48:35 AM Informational] ========== Run test finished: 1 run (0:00:49.8293652) ==========
+[22/08/2018 1:53:21 AM Informational] ------ Discover test started ------
+[22/08/2018 1:53:26 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:53:27 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:53:27 AM Informational] ========== Discover test finished: 1 found (0:00:05.5935469) ==========
+[22/08/2018 1:53:31 AM Informational] ------ Run test started ------
+[22/08/2018 1:53:33 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 1:53:33 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 1:53:34 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 1:54:23 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 1:54:23 AM Informational] ========== Run test finished: 1 run (0:00:52.4131643) ==========
+[22/08/2018 1:55:03 AM Informational] ------ Discover test started ------
+[22/08/2018 1:55:06 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:55:07 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:55:08 AM Informational] ========== Discover test finished: 1 found (0:00:05.2093273) ==========
+[22/08/2018 11:41:53 AM Informational] ------ Discover test started ------
+[22/08/2018 11:41:55 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 11:41:56 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 11:41:57 AM Informational] ========== Discover test finished: 1 found (0:00:03.7360431) ==========
+[22/08/2018 11:42:36 AM Informational] ------ Run test started ------
+[22/08/2018 11:42:38 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 11:42:38 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 11:42:40 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 11:43:03 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 11:43:04 AM Informational] ========== Run test finished: 1 run (0:00:27.3821946) ==========
+[22/08/2018 11:44:20 AM Informational] ------ Run test started ------
+[22/08/2018 11:44:22 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 11:44:22 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 11:44:23 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 11:45:13 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 11:45:14 AM Informational] ========== Run test finished: 1 run (0:00:54.0269811) ==========
+[22/08/2018 11:58:06 AM Informational] ------ Discover test started ------
+[22/08/2018 11:58:08 AM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 11:58:10 AM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 11:58:10 AM Informational] ========== Discover test finished: 1 found (0:00:04.1166202) ==========
+[22/08/2018 11:58:18 AM Informational] ------ Run test started ------
+[22/08/2018 11:58:20 AM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 11:58:20 AM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 11:58:21 AM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 11:59:13 AM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 11:59:13 AM Informational] ========== Run test finished: 1 run (0:00:55.3323492) ==========
+[22/08/2018 12:01:35 PM Informational] ------ Discover test started ------
+[22/08/2018 12:01:38 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:01:40 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:01:40 PM Informational] ========== Discover test finished: 1 found (0:00:04.2021738) ==========
+[22/08/2018 12:01:43 PM Informational] ------ Run test started ------
+[22/08/2018 12:01:45 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:01:45 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:01:46 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:02:37 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:02:37 PM Informational] ========== Run test finished: 1 run (0:00:53.770881) ==========
+[22/08/2018 12:13:48 PM Informational] ------ Discover test started ------
+[22/08/2018 12:13:53 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:13:54 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:13:54 PM Informational] ========== Discover test finished: 1 found (0:00:06.1482652) ==========
+[22/08/2018 12:14:07 PM Informational] ------ Run test started ------
+[22/08/2018 12:14:09 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:14:09 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:14:10 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:15:03 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:15:03 PM Informational] ========== Run test finished: 1 run (0:00:56.2195415) ==========
+[22/08/2018 12:15:59 PM Informational] ------ Discover test started ------
+[22/08/2018 12:16:03 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:16:04 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:16:05 PM Informational] ========== Discover test finished: 1 found (0:00:05.2444297) ==========
+[22/08/2018 12:16:17 PM Informational] ------ Run test started ------
+[22/08/2018 12:16:20 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:16:20 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:16:21 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:17:10 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:17:10 PM Informational] ========== Run test finished: 1 run (0:00:52.3895898) ==========
+[22/08/2018 12:39:27 PM Informational] ------ Discover test started ------
+[22/08/2018 12:39:32 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:39:33 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:39:34 PM Informational] ========== Discover test finished: 1 found (0:00:07.0469386) ==========
+[22/08/2018 12:39:41 PM Informational] ------ Run test started ------
+[22/08/2018 12:39:44 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 12:39:44 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 12:39:45 PM Informational] NUnit3TestExecutor converted 1 of 1 NUnit test cases
+[22/08/2018 12:40:42 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 12:40:42 PM Informational] ========== Run test finished: 1 run (0:01:00.5026968) ==========
+[22/08/2018 12:44:20 PM Informational] ------ Discover test started ------
+[22/08/2018 12:44:25 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:44:26 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:44:26 PM Informational] ========== Discover test finished: 1 found (0:00:06.2629259) ==========
+[22/08/2018 12:45:21 PM Informational] ------ Discover test started ------
+[22/08/2018 12:45:25 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:45:26 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:45:27 PM Informational] ========== Discover test finished: 1 found (0:00:05.634847) ==========
+[22/08/2018 12:50:02 PM Informational] ------ Discover test started ------
+[22/08/2018 12:50:07 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 12:50:08 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 12:50:08 PM Informational] ========== Discover test finished: 1 found (0:00:06.0426805) ==========
+[22/08/2018 1:03:09 PM Informational] ------ Discover test started ------
+[22/08/2018 1:03:14 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:03:16 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:03:16 PM Informational] ========== Discover test finished: 2 found (0:00:07.4592873) ==========
+[22/08/2018 1:03:19 PM Informational] ------ Run test started ------
+[22/08/2018 1:03:22 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 1:03:22 PM Informational] Running all tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 1:03:23 PM Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[22/08/2018 1:04:42 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 1:04:42 PM Informational] ========== Run test finished: 2 run (0:01:23.5696511) ==========
+[22/08/2018 1:13:58 PM Informational] ------ Discover test started ------
+[22/08/2018 1:14:03 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 1:14:05 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 1:14:05 PM Informational] ========== Discover test finished: 2 found (0:00:07.0432499) ==========
+[22/08/2018 3:00:22 PM Informational] ------ Discover test started ------
+[22/08/2018 3:00:27 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 3:00:28 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 3:00:28 PM Informational] ========== Discover test finished: 2 found (0:00:05.9492632) ==========
+[22/08/2018 3:00:33 PM Informational] ------ Run test started ------
+[22/08/2018 3:00:35 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 3:00:35 PM Informational] Running selected tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 3:00:36 PM Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[22/08/2018 3:00:37 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 3:00:37 PM Informational] ========== Run test finished: 1 run (0:00:04.2793708) ==========
+[22/08/2018 3:02:06 PM Informational] ------ Run test started ------
+[22/08/2018 3:02:10 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 3:02:10 PM Informational] Running selected tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 3:02:11 PM Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[22/08/2018 3:02:12 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 3:02:12 PM Informational] ========== Run test finished: 2 run (0:00:06.4354449) ==========
+[22/08/2018 3:11:54 PM Informational] ------ Discover test started ------
+[22/08/2018 3:11:58 PM Warning] Could not find file C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll.
+[22/08/2018 3:11:58 PM Warning] None of the specified source(s) 'C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll' is valid. Fix the above errors/warnings and then try again. 
+[22/08/2018 3:11:58 PM Informational] ========== Discover test finished: 0 found (0:00:04.0150519) ==========
+[22/08/2018 3:27:01 PM Informational] ------ Discover test started ------
+[22/08/2018 3:27:05 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 3:27:07 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 3:27:07 PM Informational] ========== Discover test finished: 2 found (0:00:05.7675912) ==========
+[22/08/2018 3:27:26 PM Informational] ------ Run test started ------
+[22/08/2018 3:27:28 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 3:27:28 PM Informational] Running selected tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 3:27:29 PM Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[22/08/2018 3:28:23 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 3:28:23 PM Informational] ========== Run test finished: 1 run (0:00:57.0874715) ==========
+[22/08/2018 3:29:07 PM Informational] ------ Discover test started ------
+[22/08/2018 3:29:12 PM Informational] NUnit Adapter 3.10.0.21: Test discovery starting
+[22/08/2018 3:29:13 PM Informational] NUnit Adapter 3.10.0.21: Test discovery complete
+[22/08/2018 3:29:13 PM Informational] ========== Discover test finished: 2 found (0:00:05.9279269) ==========
+[22/08/2018 3:29:23 PM Informational] ------ Run test started ------
+[22/08/2018 3:29:25 PM Informational] NUnit Adapter 3.10.0.21: Test execution started
+[22/08/2018 3:29:25 PM Informational] Running selected tests in C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\bin\Debug\KeyProjectN.dll
+[22/08/2018 3:29:26 PM Informational] NUnit3TestExecutor converted 2 of 2 NUnit test cases
+[22/08/2018 3:30:13 PM Informational] NUnit Adapter 3.10.0.21: Test execution complete
+[22/08/2018 3:30:13 PM Informational] ========== Run test finished: 1 run (0:00:49.6775378) ==========
