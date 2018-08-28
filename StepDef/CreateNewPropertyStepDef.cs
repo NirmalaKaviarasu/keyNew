@@ -4,78 +4,33 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support;
 using OpenQA.Selenium;
 using NUnit.Framework;
-using KeyReport.Pages;
+using KeyProjectN.Pages;
+using KeyProjectN.Config;
 using OpenQA.Selenium.Support.UI;
-using AventStack.ExtentReports;
-using AventStack.ExtentReports.Reporter;
-using AventStack.ExtentReports.Gherkin.Model;
 
-namespace KeyReport
+namespace KeyProjectN 
 {
     [Binding]
     public class CreateNewPropertyStepDef 
     {
         private IWebDriver driver;
-        private static ExtentTest featurename;
-        private static ExtentTest scenario;
-        private static ExtentReports Extent1 = new ExtentReports();
-
-
-        /*
-        
-        [BeforeTestRun]
-        public static void init()
-        {
-            var htmlReporter = new ExtentHtmlReporter(@"C:\Users\Mallik\Desktop\KeyProjectN\ExtendReport.html");
-            htmlReporter.Configuration().Theme = AventStack.ExtentReports.Reporter.Configuration.Theme.Dark;
-             Extent1.AttachReporter(htmlReporter);
-         
-        }
-
-        [BeforeFeature("Create")]
-        public static void BeforeFet()
-        {
-            featurename = Extent1.CreateTest<Feature>(FeatureContext.Current.FeatureInfo.Title);
-
-        }
-
-        [AfterStep("Create")]
-        public static void afterTest()
-        {
-            scenario.CreateNode<Given>(ScenarioStepContext.Current.StepInfo.Text);
-        }
-
-        [AfterTestRun]
-        public static void TearDownReprt()
-        {
-            Extent1.Flush();
-        }
-        */
-
 
         [BeforeScenario("Create")]
         public void SetUp()
         {
-            //Crate Test
-                      
             driver = new ChromeDriver();
             driver.Manage().Window.Maximize();
             driver.Url = "http://dev.property.community/Account/Login";
-           // scenario = Extent1.CreateTest<Scenario>(ScenarioContext.Current.ScenarioInfo.Title);
         }
-
-      
-
 
         [Given(@"Login Using Owners Account details")]
         public void GivenLoginUsingOwnersAccountDetails()
         {
-           
+                   
             Login_Page Login = new Login_Page(driver);
             Login.LoginToApp();
-                       
         }
-
+        
         [Given(@"Navigate to Owners tab")]
         public void GivenNavigateToOwnersTab()
         {
@@ -127,13 +82,11 @@ namespace KeyReport
             pg.takescreenshot();
         }
 
-      /*  [AfterScenario("Create")]
+        [AfterScenario("Create")]
         public void TearDown()
         {
-          
             driver.Dispose();
         }
 
-    */
-           }
+    }
 }

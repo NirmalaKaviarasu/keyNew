@@ -9,7 +9,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium.Support.UI;
 
-namespace KeyReport.Pages
+namespace KeyProjectN.Pages
 {
     class Tenant_Details_Page
     {
@@ -81,26 +81,22 @@ namespace KeyReport.Pages
                String startD = "24/09/2018";
            */
 
+            StartDate.SendKeys("24/09/2018");
             StartDate.Click();
-            StartDate.Clear();
-            StartDate.SendKeys("24/11/2018");
-            System.Threading.Thread.Sleep(500);
+            System.Threading.Thread.Sleep(1000);
 
-
-
-            EndDate.Click();
-            EndDate.Clear();
             EndDate.SendKeys("24/08/2028");
-            System.Threading.Thread.Sleep(500);
+            EndDate.Click();
+            System.Threading.Thread.Sleep(1000);
 
+            PaymentStartDate.SendKeys("24/09/2018");
             PaymentStartDate.Click();
-            PaymentStartDate.Clear();
-            PaymentStartDate.SendKeys("26/11/2018");
-            System.Threading.Thread.Sleep(500);
+            System.Threading.Thread.Sleep(1000);
 
 
             Liabilities.Click();
             _Wait.Until(ExpectedConditions.ElementExists(By.XPath("//*[@id='LiabilityDetail']/div/div[1]/div[2]/div[1]/input")));
+
             ValLiabilities.SendKeys("1000");
             ClickSave.Click();
 

@@ -11,7 +11,7 @@ using OpenQA.Selenium.Support.UI;
 using NUnit.Framework;
 using OpenQA.Selenium.Interactions;
 
-namespace KeyReport.Pages
+namespace KeyProjectN.Pages
 {
     class ListARental_Page
     {
@@ -19,6 +19,7 @@ namespace KeyReport.Pages
         private readonly IWebDriver _driver;
 
         private WebDriverWait _Wait;
+
 
 
         public ListARental_Page(IWebDriver driver)
@@ -66,22 +67,6 @@ namespace KeyReport.Pages
         [CacheLookup]
         public IWebElement Save { get; set; }
 
-        [FindsBy(How = How.XPath, Using = "/html/body/div[1]/div/div[2]/a[2]")]
-        [CacheLookup]
-        public IWebElement PropForRent { get; set; }
-
-        [FindsBy(How = How.XPath, Using = "/html/body/div[5]/div/div[5]/a[1]")]
-        [CacheLookup]
-        public IWebElement Skip { get; set; }
-
-        [FindsBy(How = How.Id, Using = "SearchBox")]
-        [CacheLookup]
-        public IWebElement Searchbox { get; set; }
-
-        [FindsBy(How = How.Id, Using = "SearchBox")]
-        [CacheLookup]
-        public IWebElement SearchProp { get; set; }
-
         public void Enter_Value_ListARentalPage()
         {
 
@@ -93,48 +78,36 @@ namespace KeyReport.Pages
             actions.Click();
             actions.SendKeys("1222 High Street, Taita, Lower Hutt, 5011");
             actions.Build().Perform();
-            System.Threading.Thread.Sleep(200);
+            System.Threading.Thread.Sleep(50);
 
 
             Title.SendKeys("TestTitleNewToRent");
             Description.SendKeys("Description To Test");
             MovingCost.SendKeys("2000");
             TargetRent.SendKeys("200");
-            AvailableDate.Click();
-            AvailableDate.Clear();
-            AvailableDate.SendKeys("16/07/2019");
-            System.Threading.Thread.Sleep(250);
+            AvailableDate.SendKeys("10/05/2019");
+            System.Threading.Thread.Sleep(50);
 
             OccupantsCount.SendKeys("2");
             UploadPhoto.SendKeys(@"C:\Users\Mallik\Desktop\Test.jpg");
-            System.Threading.Thread.Sleep(150);
+            System.Threading.Thread.Sleep(50);
+
 
             Save.Click();
-            _Wait.Until(condition: ExpectedConditions.ElementExists(By.Id("SearchBox")));
-            
-            // IAlert alert = _driver.SwitchTo().Alert();
-            // alert.Accept();
 
-            // System.Threading.Thread.Sleep(50);
+           // IAlert alert = _driver.SwitchTo().Alert();
+          //  alert.Accept();
 
-        }
+           // System.Threading.Thread.Sleep(50);
 
-        public void PropforRent()
-        {
-           
-
-            PropForRent.Click();
-            _Wait.Until(ExpectedConditions.ElementExists(By.XPath("/html/body/div[5]/div/div[5]/a[1]")));
-            Skip.Click();
-            
         }
 
         public void takescreenshot()
         {
-            _Wait.Until(ExpectedConditions.ElementExists(By.Id("SearchBox")));
+            _Wait.Until(ExpectedConditions.ElementExists(By.XPath("//*[@id='main-content']/div/div[1]/div[2]/div/div[1]/div/div/div[1]")));
 
             Screenshot ss = ((ITakesScreenshot)_driver).GetScreenshot();
-            ss.SaveAsFile(@"C:\Users\Mallik\Desktop\KeyProjectN\KeyProjectN\Screenshot\RentedProperty.jpg");
+            ss.SaveAsFile(@"C:\Users\Mallik\source\repos\KeyProjectN\KeyProjectN\Screenshot\RentedProperty.jpg");
 
         }
     }
